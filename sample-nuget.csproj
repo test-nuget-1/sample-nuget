@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>sample_nuget</RootNamespace>
+    <PackageId>sample-nuget</PackageId>
+    <Authors>namratajha</Authors>
+    <Version>2.2.0</Version>
+    <Company>github</Company>
+    <RepositoryUrl>https://github.com/nuget-v2-lab/sample-nuget</RepositoryUrl>
+    <PackageTags>latest</PackageTags>
+  </PropertyGroup>
+
+</Project>
