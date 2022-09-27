@@ -17,8 +17,6 @@ jobs:
         with:
           dotnet-version: '5.0' # SDK Version to use.
           source-url: https://nuget.pkg.github.com/test-nuget-1/index.json
-        env:
-          NUGET_AUTH_TOKEN: ${{ github.token }}
       - name: Build Nuget packages
         run: dotnet build
         env:
