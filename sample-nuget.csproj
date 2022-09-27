@@ -8,7 +8,7 @@
     <Authors>namratajha</Authors>
     <Version>2.2.0</Version>
     <Company>github</Company>
-    <RepositoryUrl>https://github.com/nuget-v2-lab/sample-nuget</RepositoryUrl>
+    <RepositoryUrl>https://github.com/test-nuget-1/sample-nuget</RepositoryUrl>
     <PackageTags>latest</PackageTags>
   </PropertyGroup>
 
